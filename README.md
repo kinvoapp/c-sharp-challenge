@@ -31,17 +31,17 @@ ___Para vagas com foco em backend:___
   Se seu foco é apenas em backend, tudo bem entregar uma aplicação focada apenas em API, sem interface, mas sinta-se à vontade para entregar ambos.
 
 
-    - Exigido :
-        - Orientação a Objetos
-        - Testes Unitários (TDD)
-        - Clareza de Código
-    - Diferenciais : 
-        - Clean Architecture
-        - **SOLID**
-        - **Domain Driven Design(DDD)**
-        - Behavior Driven Design(BDD)
-        - **Design Patterns**
-        - **Clean Code**
+- Exigido :
+    - Orientação a Objetos
+    - Testes Unitários (TDD)
+    - Clareza de Código
+- Diferenciais : 
+    - Clean Architecture
+    - **SOLID**
+    - **Domain Driven Design(DDD)**
+    - Behavior Driven Design(BDD)
+    - **Design Patterns**
+    - **Clean Code**
       
 
 ___Observação: Para os níveis Pleno e Sênior é importante atender aos diferenciais,  no mínimo os destacados em negrito;___
