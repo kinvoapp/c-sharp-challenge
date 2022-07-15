@@ -1,6 +1,6 @@
 # Desafio
 
-Um consultor de investimentos, precisa controlar os investimentos dos seus clientes através de um software, hoje ele faz isso através de uma planilha. Ele precisa saber quais são os investimentos dos seus clientes, em relação a o montante total dos investimentos, e também o histórico, o dia da compra e o dia do resgate. Os tipos de investimentos são : Ações.  Além de controlar o montante total, ele controla o preço médio das ações, e o percentual de lucro, quando é feito algum resgate.
+Um consultor de investimentos, precisa controlar os investimentos dos seus clientes através de um software, hoje ele faz isso através de uma planilha. Ele precisa saber quais são os investimentos dos seus clientes, em relação ao montante total dos investimentos, e também o histórico, o dia da compra e o dia do resgate. Os tipos de investimentos são : Ações.  Além de controlar o montante total, ele controla o preço médio das ações, e o percentual de lucro, quando é feito algum resgate.
 
 Cliente: Luena Caires Monte
 
