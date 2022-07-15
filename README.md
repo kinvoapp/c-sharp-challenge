@@ -6,6 +6,8 @@ Cliente: Luena Caires Monte
 
 | Ação    | Preço  | Quantidade | Subtotal | Taxas | Tipo      | Data
 | PETR4   | 19.40  | 50         | 970,00   | 6,00  | Aplicação | 02/10/2020|
+
+
 | B3SA3   | 54.97  | 27         | 1484,19  | 3,50  | Aplicação | 22/02/2021|
 | B3SA3   | 65,00  | 8          | 520,00   | 4,00  | Aplicação | 25/02/2021|
 | B3SA3   | 63,00  | 19         | 1197,00  | 4,00  | Aplicação | 25/02/2021|
