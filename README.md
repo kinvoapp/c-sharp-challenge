@@ -37,11 +37,11 @@ ___Para vagas com foco em backend:___
         - Clareza de Código
     - Diferenciais : 
         - Clean Architecture
-        - ___SOLID___
-        - ___Domain Driven Design(DDD)___
+        - **SOLID**
+        - **Domain Driven Design(DDD)**
         - Behavior Driven Design(BDD)
-        - ___Design Patterns___
-        - ___Clean Code___
+        - **Design Patterns**
+        - **Clean Code**
       
 
 ___Observação: Para os níveis Pleno e Sênior é importante atender aos diferenciais,  no mínimo os destacados em negrito;___
