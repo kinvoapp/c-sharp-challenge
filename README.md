@@ -27,7 +27,7 @@ O desafio consiste em desenvolver uma aplicação, que permita ao consultor cont
 A solução deve ser desenvolvida  com linguagem C#, utilizando o framework .Net Core na versão 3.1 ou superior,  os critérios serão considerados de acordo com o nível da vaga que se está concorrendo (Júnior, Pleno ou Sênior). 
 
 
-Para vagas com foco em backend:
+___Para vagas com foco em backend:___
   Se seu foco é apenas em backend, tudo bem entregar uma aplicação focada apenas em API, sem interface, mas sinta-se à vontade para entregar ambos.
 
 
