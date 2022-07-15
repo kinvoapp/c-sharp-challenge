@@ -18,6 +18,7 @@ Cliente: Luena Caires Monte
 
 
 | Ação    | Preço Médio | Quantidade | Total   |
+|---------|-------------|------------|---------|
 | PETR4   | 19,52       | 50         | 970,00  |  
 | B3SA3   | 59,49       | 54         | 3212,00 |
 | MGLU3   | 18,81       | 00         | 0,00    |
