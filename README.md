@@ -45,3 +45,4 @@ ___Para vagas com foco em backend:___
       
 
 ___Observação: Para os níveis Pleno e Sênior é importante atender aos diferenciais,  no mínimo os destacados em negrito;___
+**Submissão**: Para iniciar o teste, faça um fork deste repositório, crie uma branch com o seu nome e depois envie-nos o pull request. Se você apenas clonar o repositório não vai conseguir fazer push e depois vai ser mais complicado fazer o pull request.
