@@ -1,0 +1,6 @@
+C:\Users\ifeme\source\repos\c-sharp-challenge\Desafio-Kinvo\DesafioKinvo.WebApi\obj\Debug\net6.0\DesafioKinvo.WebApi.csproj.AssemblyReference.cache
+C:\Users\ifeme\source\repos\c-sharp-challenge\Desafio-Kinvo\DesafioKinvo.WebApi\obj\Debug\net6.0\DesafioKinvo.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ifeme\source\repos\c-sharp-challenge\Desafio-Kinvo\DesafioKinvo.WebApi\obj\Debug\net6.0\DesafioKinvo.WebApi.AssemblyInfoInputs.cache
+C:\Users\ifeme\source\repos\c-sharp-challenge\Desafio-Kinvo\DesafioKinvo.WebApi\obj\Debug\net6.0\DesafioKinvo.WebApi.AssemblyInfo.cs
+C:\Users\ifeme\source\repos\c-sharp-challenge\Desafio-Kinvo\DesafioKinvo.WebApi\obj\Debug\net6.0\DesafioKinvo.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\ifeme\source\repos\c-sharp-challenge\Desafio-Kinvo\DesafioKinvo.WebApi\obj\Debug\net6.0\DesafioKinvo.WebApi.MvcApplicationPartsAssemblyInfo.cache
