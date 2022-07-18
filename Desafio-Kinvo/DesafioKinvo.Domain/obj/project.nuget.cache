@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FO7avvVHp16a3+xajOo2r/7du6jLj/N1xsr6lVdCmGTeXniNPxnKtA4iWC1sx/SREtJBFAL5cW50IGJDY4YNSw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ifeme\\source\\repos\\c-sharp-challenge\\Desafio-Kinvo\\DesafioKinvo.Domain\\DesafioKinvo.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ifeme\\.nuget\\packages\\fluentvalidation\\11.1.0\\fluentvalidation.11.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

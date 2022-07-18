@@ -1,0 +1,5 @@
+C:\Users\ifeme\source\repos\c-sharp-challenge\Desafio-Kinvo\DesafioKinvo.Data\obj\Debug\net6.0\DesafioKinvo.Data.csproj.AssemblyReference.cache
+C:\Users\ifeme\source\repos\c-sharp-challenge\Desafio-Kinvo\DesafioKinvo.Data\obj\Debug\net6.0\DesafioKinvo.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ifeme\source\repos\c-sharp-challenge\Desafio-Kinvo\DesafioKinvo.Data\obj\Debug\net6.0\DesafioKinvo.Data.AssemblyInfoInputs.cache
+C:\Users\ifeme\source\repos\c-sharp-challenge\Desafio-Kinvo\DesafioKinvo.Data\obj\Debug\net6.0\DesafioKinvo.Data.AssemblyInfo.cs
+C:\Users\ifeme\source\repos\c-sharp-challenge\Desafio-Kinvo\DesafioKinvo.Data\obj\Debug\net6.0\DesafioKinvo.Data.csproj.CoreCompileInputs.cache

@@ -1,0 +1,12 @@
+C:\Users\ifeme\source\repos\c-sharp-challenge\Desafio-Kinvo\DesafioKinvo.Core\bin\Debug\net6.0\DesafioKinvo.Core.deps.json
+C:\Users\ifeme\source\repos\c-sharp-challenge\Desafio-Kinvo\DesafioKinvo.Core\bin\Debug\net6.0\DesafioKinvo.Core.dll
+C:\Users\ifeme\source\repos\c-sharp-challenge\Desafio-Kinvo\DesafioKinvo.Core\bin\Debug\net6.0\DesafioKinvo.Core.pdb
+C:\Users\ifeme\source\repos\c-sharp-challenge\Desafio-Kinvo\DesafioKinvo.Core\obj\Debug\net6.0\DesafioKinvo.Core.csproj.AssemblyReference.cache
+C:\Users\ifeme\source\repos\c-sharp-challenge\Desafio-Kinvo\DesafioKinvo.Core\obj\Debug\net6.0\DesafioKinvo.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ifeme\source\repos\c-sharp-challenge\Desafio-Kinvo\DesafioKinvo.Core\obj\Debug\net6.0\DesafioKinvo.Core.AssemblyInfoInputs.cache
+C:\Users\ifeme\source\repos\c-sharp-challenge\Desafio-Kinvo\DesafioKinvo.Core\obj\Debug\net6.0\DesafioKinvo.Core.AssemblyInfo.cs
+C:\Users\ifeme\source\repos\c-sharp-challenge\Desafio-Kinvo\DesafioKinvo.Core\obj\Debug\net6.0\DesafioKinvo.Core.csproj.CoreCompileInputs.cache
+C:\Users\ifeme\source\repos\c-sharp-challenge\Desafio-Kinvo\DesafioKinvo.Core\obj\Debug\net6.0\DesafioKinvo.Core.dll
+C:\Users\ifeme\source\repos\c-sharp-challenge\Desafio-Kinvo\DesafioKinvo.Core\obj\Debug\net6.0\refint\DesafioKinvo.Core.dll
+C:\Users\ifeme\source\repos\c-sharp-challenge\Desafio-Kinvo\DesafioKinvo.Core\obj\Debug\net6.0\DesafioKinvo.Core.pdb
+C:\Users\ifeme\source\repos\c-sharp-challenge\Desafio-Kinvo\DesafioKinvo.Core\obj\Debug\net6.0\ref\DesafioKinvo.Core.dll
