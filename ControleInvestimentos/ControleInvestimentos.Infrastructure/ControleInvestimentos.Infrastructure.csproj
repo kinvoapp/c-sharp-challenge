@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="CrossCutting\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.27" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ControleInvestimentos.Domain.Core\ControleInvestimentos.Domain.Core.csproj" />
+    <ProjectReference Include="..\ControleInvestimentos.Domain.Services\ControleInvestimentos.Domain.Services.csproj" />
+    <ProjectReference Include="..\ControleInvestimentos.Domain\ControleInvestimentos.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
