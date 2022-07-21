@@ -5,10 +5,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Interfaces\Services\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\ControleInvestimentos.Domain\ControleInvestimentos.Domain.csproj" />
   </ItemGroup>
 

@@ -3,9 +3,9 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace ControleInvestimentos.Domain.Core.Interfaces.Repositorys
+namespace ControleInvestimentos.Domain.Core.Interfaces.Services
 {
-    public interface IRepositoryAcao: IRepositoryBase<Acao>
+    public interface IServiceCliente:IServiceBase<Cliente>
     {
     }
 }

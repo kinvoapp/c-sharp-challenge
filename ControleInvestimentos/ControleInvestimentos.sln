@@ -11,17 +11,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04-Infrastructure", "04-Inf
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03-Domain", "03-Domain", "{690F0C1D-2565-4DFF-8433-ED8EAA56B59B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleInvestimentos.API", "ControleInvestimentos.API\ControleInvestimentos.API.csproj", "{CD431824-406E-4C84-8FEC-A5A6B0399F6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ControleInvestimentos.API", "ControleInvestimentos.API\ControleInvestimentos.API.csproj", "{CD431824-406E-4C84-8FEC-A5A6B0399F6E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleInvestimentos.Aplication", "ControleInvestimentos.Aplication\ControleInvestimentos.Aplication.csproj", "{E1EA857B-CF1A-465A-89C0-3ED7549A2C18}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ControleInvestimentos.Aplication", "ControleInvestimentos.Aplication\ControleInvestimentos.Aplication.csproj", "{E1EA857B-CF1A-465A-89C0-3ED7549A2C18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleInvestimentos.Domain", "ControleInvestimentos.Domain\ControleInvestimentos.Domain.csproj", "{3632DC7E-7856-48C9-93AC-7580BCCBE3E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ControleInvestimentos.Domain", "ControleInvestimentos.Domain\ControleInvestimentos.Domain.csproj", "{3632DC7E-7856-48C9-93AC-7580BCCBE3E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleInvestimentos.Domain.Core", "ControleInvestimentos.Domain.Core\ControleInvestimentos.Domain.Core.csproj", "{54D73642-0629-4114-9663-A3BB1980A0F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ControleInvestimentos.Domain.Core", "ControleInvestimentos.Domain.Core\ControleInvestimentos.Domain.Core.csproj", "{54D73642-0629-4114-9663-A3BB1980A0F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleInvestimentos.Domain.Services", "ControleInvestimentos.Domain.Services\ControleInvestimentos.Domain.Services.csproj", "{6E592263-3C19-4097-9322-EB1D3DDE4172}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ControleInvestimentos.Domain.Services", "ControleInvestimentos.Domain.Services\ControleInvestimentos.Domain.Services.csproj", "{6E592263-3C19-4097-9322-EB1D3DDE4172}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleInvestimentos.Infrastructure", "ControleInvestimentos.Infrastructure\ControleInvestimentos.Infrastructure.csproj", "{10FE7C81-0ADC-4824-946B-0C34F31912AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ControleInvestimentos.Infrastructure", "ControleInvestimentos.Infrastructure\ControleInvestimentos.Infrastructure.csproj", "{10FE7C81-0ADC-4824-946B-0C34F31912AF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

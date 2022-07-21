@@ -7,8 +7,8 @@ namespace ControleInvestimentos.Infrastructure.Data.Repositotrys
 {
     public class RepositoryBase<T> : IRepositoryBase<T> where T : class
     {
-        public SqlContext _sqlContext;
-        public RepositoryBase(SqlContext sqlContext)
+        public PgSqlContext _sqlContext;
+        public RepositoryBase(PgSqlContext sqlContext)
         {
             _sqlContext = sqlContext;
         }

@@ -6,10 +6,9 @@ namespace ControleInvestimentos.Domain.Entities
 {
     public class Transacao: Base
     {
-        public int IdCliente { get; set; }
+        public int ClienteId { get; set; }
         public Cliente Cliente { get; set; }
-        public int IdAcao { get; set; }
-        public Acao Acao { get; set; }
+        public string Acao { get; set; }
         public decimal Preco { get; set; }
         public int Quantidade { get; set; }
         public decimal Subtotal { get; set; }

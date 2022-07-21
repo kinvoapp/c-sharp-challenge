@@ -8,8 +8,8 @@ namespace ControleInvestimentos.Infrastructure.Data.Repositotrys
 {
     public class RepositoryCliente:RepositoryBase<Cliente>, IRepositoryCliente
     {
-        public SqlContext _sqlContext;
-        public RepositoryCliente(SqlContext sqlContext):base(sqlContext)
+        public PgSqlContext _sqlContext;
+        public RepositoryCliente(PgSqlContext sqlContext):base(sqlContext)
         {
             _sqlContext = sqlContext;
         }
