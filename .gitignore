@@ -1,0 +1,18 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ControleInvestimentos/ControleInvestimentos.API/bin/Debug/netcoreapp3.1
+/ControleInvestimentos/ControleInvestimentos.API/obj/Debug/netcoreapp3.1
+/ControleInvestimentos/ControleInvestimentos.API/obj
+/ControleInvestimentos/ControleInvestimentos.Aplication/bin/Debug/netcoreapp3.1
+/ControleInvestimentos/ControleInvestimentos.Aplication/obj
+/ControleInvestimentos/ControleInvestimentos.Domain/bin/Debug/netcoreapp3.1
+/ControleInvestimentos/ControleInvestimentos.Domain/obj/Debug/netcoreapp3.1
+/ControleInvestimentos/ControleInvestimentos.Domain/obj
+/ControleInvestimentos/ControleInvestimentos.Domain.Core/bin/Debug/netcoreapp3.1
+/ControleInvestimentos/ControleInvestimentos.Domain.Core/obj
+/ControleInvestimentos/ControleInvestimentos.Domain.Services/bin/Debug/netcoreapp3.1
+/ControleInvestimentos/ControleInvestimentos.Domain.Services/obj
+/ControleInvestimentos/ControleInvestimentos.Infrastructure/obj/Debug/netcoreapp3.1
+/ControleInvestimentos/ControleInvestimentos.Infrastructure/obj
